@@ -1,0 +1,3 @@
+# One MCP server repo per line: <git-url> <short-name>
+# Add a PR to nominate more servers for the public scoreboard.
+https://github.com/modelcontextprotocol/servers mcp-servers-reference
