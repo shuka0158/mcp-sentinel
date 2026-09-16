@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/shuka0158/mcp-sentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/shuka0158/mcp-sentinel/actions/workflows/ci.yml)
 [![Scoreboard](https://github.com/shuka0158/mcp-sentinel/actions/workflows/scoreboard.yml/badge.svg)](https://github.com/shuka0158/mcp-sentinel/actions/workflows/scoreboard.yml)
-[![PyPI](https://img.shields.io/pypi/v/mcp-sentinel)](https://pypi.org/project/mcp-sentinel/)
+[![PyPI](https://img.shields.io/pypi/v/mcpsentinel)](https://pypi.org/project/mcpsentinel/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 The Model Context Protocol lets you plug arbitrary third-party servers into
@@ -55,11 +55,13 @@ ecosystem, not another offensive-tooling wrapper.
 ## Install
 
 ```bash
-pip install mcp-sentinel
+pip install mcpsentinel
 
 # for scan-live (talks the real MCP protocol to a running server):
-pip install "mcp-sentinel[dynamic]"
+pip install "mcpsentinel[dynamic]"
 ```
+
+The PyPI package is `mcpsentinel`; the command it installs is `mcp-sentinel`.
 
 ## Usage
 
