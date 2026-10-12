@@ -4,4 +4,4 @@ Auto-generated weekly by `.github/workflows/scoreboard.yml` — static scan only
 
 | Server | Grade | Risk score | Critical | High | Medium | Low |
 |---|---|---|---|---|---|---|
-| [mcp-servers-reference](https://github.com/modelcontextprotocol/servers) | C | 16/100 | 0 | 0 | 0 | 8 |
+| [mcp-servers-reference](https://github.com/modelcontextprotocol/servers) | F | 99/100 | 0 | 1 | 0 | 42 |
